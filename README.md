@@ -3,8 +3,7 @@
 This template is build using react and tailwind css
 
 
-
-![alt text](image.png)
+![alt text](image-2.png)
 
 # How to install
  Run commands
@@ -14,3 +13,6 @@ This template is build using react and tailwind css
   npm install
 
   npm run dev
+
+  Responsive download cards
+  ![alt text](image-1.png)
