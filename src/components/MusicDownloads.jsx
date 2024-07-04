@@ -2,15 +2,15 @@ import React from 'react';
 
 const musicTracks = [
   {
-    title: 'Track 1',
-    artist: 'DJ Name',
-    album: 'Album 1',
+    title: 'Electro/pops Mix(Heartbreak overdose)',
+    artist: 'HacktivitistDj',
+    Duration: '1hour',
     downloadLink: 'https://example.com/download/track1.mp3',
   },
   {
-    title: 'Track 2',
-    artist: 'DJ Name',
-    album: 'Album 2',
+    title: 'Reggaeton mix (From old to top rated hits)',
+    artist: 'HacktivitistDj',
+    Duration: '2hrs',
     downloadLink: 'https://example.com/download/track2.mp3',
   },
   // Add more tracks as needed
